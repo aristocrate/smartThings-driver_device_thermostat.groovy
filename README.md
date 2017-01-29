@@ -1,0 +1,1 @@
+# smartThings-driver_device_thermostat.groovy
